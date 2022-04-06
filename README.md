@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ivesmoraisbraga@gmail.com**
 
-- ⚡ Fun fact **Não sabia NADA de programação até o dia 20/09/2021**
+- ⚡ Fun fact **Não sabia NADA de programação até o dia 20/09/2021 (Obrigado Trybe!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
