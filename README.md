@@ -1,7 +1,7 @@
 <h1 align="center">Eai 👋, Eu sou o Ives!</h1>
 <h3 align="center">Estudante de desenvolvimento de software web na Trybe!</h3>
 
-- 🌱 Estou aprendendo agora **MySQL e banco de dados**
+- 🌱 Estou aprendendo agora **Node.js**
 
 - 📫 How to reach me **ivesmoraisbraga@gmail.com**
 
