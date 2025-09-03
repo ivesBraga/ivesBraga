@@ -1,11 +1,9 @@
 <h1 align="center">Eai 👋, Eu sou o Ives!</h1>
-<h3 align="center">Estudante de desenvolvimento de software web na Trybe!</h3>
+<h3 align="center">Desenvolvedor web fullstack na Infinity HUB 💡</h3>
 
 - 🌱 Estou aprendendo agora **Typescript**
 
 - 📫 How to reach me **ivesmoraisbraga@gmail.com**
-
-- ⚡ Fun fact **Não sabia NADA de programação até o dia 20/09/2021 (Obrigado Trybe!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
