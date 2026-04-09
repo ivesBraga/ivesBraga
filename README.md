@@ -1,7 +1,7 @@
 <h1 align="center">Eai 👋, Eu sou o Ives!</h1>
 <h3 align="center">Desenvolvedor web fullstack na Infinity HUB 💡</h3>
 
-- 🌱 Estou aprendendo agora **Typescript**
+- 🌱 Estou aprendendo agora **Mensageria**
 
 - 📫 How to reach me **ivesmoraisbraga@gmail.com**
 
